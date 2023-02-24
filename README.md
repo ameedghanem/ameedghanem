@@ -9,7 +9,7 @@
 
 <p>
   <ul>
-	  <li>A software developer at [Personetics](https://personetics.com/) </li>
+	  <li>A software developer at <a href="https://personetics.com/">Personetics</a> </li>
     <li>BSc in Computer Science from Tel-Aviv University</li>
    </ul>
 </p>
