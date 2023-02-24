@@ -1,7 +1,9 @@
 ### Hi there 👋, my name is Ameed
+
 <a href="www.linkedin.com/in/ameed-ghanem">
   <img align="left" alt="Ameed's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ameedghanem.ameedghanem) 
 <br/>
 
