@@ -2,7 +2,7 @@
 <a href="www.linkedin.com/in/ameed-ghanem">
   <img align="left" alt="Ameed's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=ameedghanem.ameedghanem)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ameedghanem.ameedghanem)
 
 A software developer at [Personetics](https://personetics.com/).
 BSc in Computer Science from Tel-Aviv University.
