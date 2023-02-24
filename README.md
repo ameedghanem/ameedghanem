@@ -3,7 +3,7 @@
   <img align="left" alt="Ameed's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ameedghanem.ameedghanem) 
-<br />
+<br/>
 
 A software developer at [Personetics](https://personetics.com/).
 BSc in Computer Science from Tel-Aviv University.
